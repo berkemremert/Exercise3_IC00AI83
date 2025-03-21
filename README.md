@@ -1,1 +1,1 @@
-[embed]https://github.com/berkemremert/Exercise3_IC00AI83/blob/main/Exercise3_IC00AI83.pdf[/embed]
+https://github.com/berkemremert/Exercise3_IC00AI83/blob/4efda3886f312224f51d6a75aa8d8eab458aab6f/Exercise3_IC00AI83.pdf
